@@ -1,0 +1,18 @@
+{
+   "configurations": [
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - forLoop",
+         "request": "launch",
+         "mainClass": "ie.gmit.packagename.forLoop",
+         "projectName": "test-minhtran365411_3e9975f5"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - HelloWorld",
+         "request": "launch",
+         "mainClass": "ie.gmit.packagename.HelloWorld",
+         "projectName": "test-minhtran365411_3e9975f5"
+      }
+   ]
+}
