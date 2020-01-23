@@ -2,6 +2,13 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - MyClass",
+         "request": "launch",
+         "mainClass": "ie.gmit.labweek2.MyClass",
+         "projectName": "test-minhtran365411_3e9975f5"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - forLoop",
          "request": "launch",
          "mainClass": "ie.gmit.packagename.forLoop",
