@@ -1,15 +1,15 @@
 package ie.gmit.labweek2;
 
 class MyClass {
-/* 
-    public myMethod() {
-        System.out.println("I just got executed!");
-        m = new myMethod();
-        m.myMethod();
-    }*/
 
     public static void main(String[] args) {
-        
+        for (int i = 0; i < 10; i++) {
+            myMethod();
+        }
+    }
+
+    public static void myMethod() {
         System.out.println("I just got executed!");
     }
+
 }
