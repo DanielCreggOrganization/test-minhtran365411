@@ -1,6 +1,6 @@
 package ie.gmit.labweek3;
 
-public class buildingCar {
+public class Car {
     //Creating instance variables
     int topSpeed;
     int totalSeats;
