@@ -12,6 +12,10 @@ public class Main {
         car2.value = 20000;
 
         System.out.println(car1.value);
+
+        car1.crash();
+
+        System.out.println(car1.value);
     }
     
 }
