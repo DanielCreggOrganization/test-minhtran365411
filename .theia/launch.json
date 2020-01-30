@@ -2,6 +2,20 @@
    "configurations": [
       {
          "type": "java",
+         "name": "CodeLens (Launch) - DoWhileSum",
+         "request": "launch",
+         "mainClass": "ie.gmit.labweek3.DoWhileSum",
+         "projectName": "test-minhtran365411_3e9975f5"
+      },
+      {
+         "type": "java",
+         "name": "CodeLens (Launch) - DoWhileDemo",
+         "request": "launch",
+         "mainClass": "ie.gmit.labweek3.DoWhileDemo",
+         "projectName": "test-minhtran365411_3e9975f5"
+      },
+      {
+         "type": "java",
          "name": "CodeLens (Launch) - ForLoopIte",
          "request": "launch",
          "mainClass": "ie.gmit.labweek3.ForLoopIte",

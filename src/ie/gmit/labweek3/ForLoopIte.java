@@ -10,6 +10,7 @@ public class ForLoopIte {
         int n = input.nextInt();
 
         a.counterFor(n);
+        a.counterWhile(n);
         input.close();
 
     }
