@@ -4,12 +4,15 @@ import java.util.Scanner;
 public class FlowControl {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        FlowControl a = new FlowControl();
 
         System.out.print("Enter the number of your birth month: ");
         int month = sc.nextInt();
+
+        a.birthMonthFinder(month);
     }
 
-    void birthMonthFinder(int month) {
+    public void birthMonthFinder(int month) {
         switch (month) {
             case 1:
                 System.out.println("You were born in January.");
@@ -48,10 +51,7 @@ public class FlowControl {
                 System.out.println("You were born in December.");
             break;
             default:
-                System.out.println("You were born in January.");
-            break;
-            case 1:
-                System.out.println("");
+                System.out.println("Invalid number - please enter number from1 to 12.");
             break;
         }
     }
