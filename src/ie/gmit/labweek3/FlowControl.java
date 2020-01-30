@@ -3,13 +3,16 @@ import java.util.Scanner;
 
 public class FlowControl {
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         FlowControl a = new FlowControl();
+        int month;
 
         System.out.print("Enter the number of your birth month: ");
-        int month = sc.nextInt();
+        month = sc.nextInt();
 
         a.birthMonthFinder(month);
+        sc.close();
     }
 
     public void birthMonthFinder(int month) {
