@@ -6,7 +6,7 @@ public class ForLoopIte {
         Scanner input = new Scanner(System.in);
         ForLoopIte a = new ForLoopIte();
 
-        System.out.print("We are going to count from 1 to N./n PLease enter N: ");
+        System.out.print("We are going to count from 1 to N.\n PLease enter N: ");
         int n = input.nextInt();
 
         a.counter(n);
@@ -17,7 +17,7 @@ public class ForLoopIte {
     void counter(int n) {
     String output = "";
         for (int i = 1; i <= n; i++) {
-            output += i +"/n";
+            output += i +"\n";
         }
     System.out.println(output);
     } 
