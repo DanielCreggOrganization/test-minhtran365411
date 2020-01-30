@@ -54,7 +54,7 @@ public class FlowControl {
                 System.out.println("You were born in December.");
             break;
             default:
-                System.out.println("Invalid number - please enter number from1 to 12.");
+                System.out.println("Invalid number - please enter number from 1 to 12.");
             break;
         }
     }
