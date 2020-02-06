@@ -1,67 +1,74 @@
 {
    "configurations": [
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - DoWhileSum",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.DoWhileSum",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - DoWhileDemo",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.DoWhileDemo",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - ForLoopIte",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.ForLoopIte",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - FlowControl",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.FlowControl",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - Main",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.Main",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - variablesType",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek3.variablesType",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - MyClass",
-         "request": "launch",
-         "mainClass": "ie.gmit.labweek2.MyClass",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - forLoop",
-         "request": "launch",
-         "mainClass": "ie.gmit.packagename.forLoop",
-         "projectName": "test-minhtran365411_3e9975f5"
-      },
-      {
-         "type": "java",
-         "name": "CodeLens (Launch) - HelloWorld",
-         "request": "launch",
-         "mainClass": "ie.gmit.packagename.HelloWorld",
-         "projectName": "test-minhtran365411_3e9975f5"
-      }
-   ]
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Chess",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek4.Chess",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - DoWhileSum",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.DoWhileSum",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - DoWhileDemo",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.DoWhileDemo",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - ForLoopIte",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.ForLoopIte",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - FlowControl",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.FlowControl",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - Main",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.Main",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - variablesType",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek3.variablesType",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - MyClass",
+        "request": "launch",
+        "mainClass": "ie.gmit.labweek2.MyClass",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - forLoop",
+        "request": "launch",
+        "mainClass": "ie.gmit.packagename.forLoop",
+        "projectName": "test-minhtran365411_3e9975f5"
+    },
+    {
+        "type": "java",
+        "name": "CodeLens (Launch) - HelloWorld",
+        "request": "launch",
+        "mainClass": "ie.gmit.packagename.HelloWorld",
+        "projectName": "test-minhtran365411_3e9975f5"
+    }
+]
 }
